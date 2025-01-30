@@ -1,5 +1,5 @@
 """
-Streamlit-based Coding Assistant powered by Ollama's DeepSeek model-R1:1.5B
+Streamlit-based chat Assistant powered by Ollama's DeepSeek model-R1:1.5B
 
 Features:
 - Interactive chat interface with message history
