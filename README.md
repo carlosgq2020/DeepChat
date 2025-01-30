@@ -4,11 +4,10 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Ollama](https://img.shields.io/badge/Ollama-0C0D0E?logo=ollama&logoColor=white)](https://ollama.ai)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://python.org)
-![Size](https://img.shields.io/github/repo-size/mohd-faizy/PyTorch-Essentials)
 
 DeepChat chatbot powered by `DeepSeek-R1` `1.5B` , built with `Streamlit` and `Ollama`.
 
-![Demo](assets\deepChat.png)
+![Demo](https://github.com/mohd-faizy/DeepChat/blob/main/assets/deepChat.png?raw=true)
 
 ## Directory Structure
 
@@ -18,10 +17,10 @@ deepchat/
 │   ├── __init__.py
 │   ├── main.py          # Streamlit application
 │   └── utils.py         # Helper functions
+├── assets              
 ├── requirements.txt     # Python dependencies
 ├── .gitignore
-├── README.md            # You are here
-└── .env.example         # Environment template
+├── README.md            
 ```
 
 ## 🚀 Quick Start
@@ -81,13 +80,6 @@ deepchat/
    streamlit run app/main.py
    ```
 
-## ⚙️ Configuration
-
-Copy the example environment file:
-
-```bash
-cp .env.example .env
-```
 
 ## 🔧 Troubleshooting
 
