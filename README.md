@@ -40,8 +40,7 @@ deepchat/
 1. Clone repository:
 
    ```bash
-   git clone https://github.com/your-username/deepchat.git
-   cd deepchat
+   git clone https://github.com/mohd-faizy/DeepChat.git
    ```
 
 2. Create virtual environment:
