@@ -5,7 +5,7 @@
 [![Ollama](https://img.shields.io/badge/Ollama-0C0D0E?logo=ollama&logoColor=white)](https://ollama.ai)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://python.org)
 
-DeepChat chatbot powered by `DeepSeek-R1` `1.5B` , built with `Streamlit` and `Ollama`.
+DeepChat is an AI-powered chatbot leveraging `DeepSeek-R1` (1.5B) parameters, built with `Streamlit` and `Ollama` for seamless and interactive conversations.
 
 ![Demo](https://github.com/mohd-faizy/DeepChat/blob/main/assets/deepChat.png?raw=true)
 
@@ -125,5 +125,7 @@ If you find this repository helpful, show your support by starring it! For quest
 [twitter]: https://twitter.com/F4izy
 [linkedin]: https://www.linkedin.com/in/mohd-faizy/
 [Portfolio]: https://ai.stackexchange.com/users/36737/faizy?tab=profile
+
+---
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true" width=380px height=200px />
